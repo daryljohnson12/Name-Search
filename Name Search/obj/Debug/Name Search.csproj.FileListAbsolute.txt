@@ -1,0 +1,10 @@
+C:\Users\Safet\source\repos\Name Search\bin\Debug\Name Search.exe.config
+C:\Users\Safet\source\repos\Name Search\bin\Debug\Name Search.exe
+C:\Users\Safet\source\repos\Name Search\bin\Debug\Name Search.pdb
+C:\Users\Safet\source\repos\Name Search\obj\Debug\Name Search.csprojAssemblyReference.cache
+C:\Users\Safet\source\repos\Name Search\obj\Debug\Name_Search.Properties.Resources.resources
+C:\Users\Safet\source\repos\Name Search\obj\Debug\Name Search.csproj.GenerateResource.cache
+C:\Users\Safet\source\repos\Name Search\obj\Debug\Name Search.csproj.CoreCompileInputs.cache
+C:\Users\Safet\source\repos\Name Search\obj\Debug\Name Search.exe
+C:\Users\Safet\source\repos\Name Search\obj\Debug\Name Search.pdb
+C:\Users\Safet\source\repos\Name Search\obj\Debug\Name_Search.NameSearchForm.resources
